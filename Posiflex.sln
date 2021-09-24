@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Posiflex", "Posiflex\Posiflex.csproj", "{01E49AD6-EFF7-4C64-A24B-C9C71E9E031A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaWarudo", "ZaWarudo\ZaWarudo.csproj", "{1E09A451-5D49-4B25-8C30-36682CDB1049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E49AD6-EFF7-4C64-A24B-C9C71E9E031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E49AD6-EFF7-4C64-A24B-C9C71E9E031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E49AD6-EFF7-4C64-A24B-C9C71E9E031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E49AD6-EFF7-4C64-A24B-C9C71E9E031A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E09A451-5D49-4B25-8C30-36682CDB1049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E09A451-5D49-4B25-8C30-36682CDB1049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E09A451-5D49-4B25-8C30-36682CDB1049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E09A451-5D49-4B25-8C30-36682CDB1049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60252029-BDEB-4E6C-8E5E-4F10AF25C401}
+	EndGlobalSection
+EndGlobal
